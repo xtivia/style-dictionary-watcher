@@ -72,7 +72,7 @@
         }
       }
     },
-    "danger": {
+    "error": {
       "description": "",
       "type": "color",
       "value": "#dc3545ff",
