@@ -1,0 +1,13 @@
+{
+  "source": ["./*.tokens.json"],
+  "platforms": {
+    "js": {
+      "transformGroup": "js",
+      "buildPath": "../../../design-token-example/design-tokens/",
+      "files": [{
+        "destination": "design-tokens.js",
+        "format": "javascript/module"
+      }]
+    }
+  }
+}

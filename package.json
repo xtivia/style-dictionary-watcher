@@ -1,0 +1,12 @@
+{
+  "name": "design-token-tailwind-example",
+  "version": "0.1.0",
+  "private": false,
+  "scripts": {
+    "watch": "node watch.js"
+  },
+  "devDependencies": {
+    "chokidar": "^3.5.3",
+    "style-dictionary": "^3.7.1"
+  }
+}
