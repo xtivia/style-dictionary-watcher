@@ -3,7 +3,7 @@
   "platforms": {
     "js": {
       "transformGroup": "js",
-      "buildPath": "../../../design-token-example/design-tokens/",
+      "buildPath": "../../../design-token-tailwind-example/design-tokens/",
       "files": [{
         "destination": "design-tokens.js",
         "format": "javascript/module"
