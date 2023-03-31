@@ -20,4 +20,4 @@ You should see a success message printed to your terminal.
 **Note:** The included example has a buildPath outside of this directory. It assumes that there's a directory named _design-token-example_ with a subdirectory named _design-tokens_.
 
 ## 🚀 About Me
-I'm a UX designer and UI developer at Xtivia inc. I do my best to help make the internet shiny and easy to use for everyone!
+I'm Lawrence, a UX designer and UI developer at Xtivia inc. I do my best to help make the internet shiny and easy to use for everyone!
